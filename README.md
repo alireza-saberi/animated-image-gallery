@@ -1,4 +1,16 @@
 # animated-image-gallery
-It's all about HTML5, some jQuesry were pasted / applied of [QuickSand plug-in](http://razorjack.net/quicksand/) but I am not good at jQuery at this moment. I will chenge it to AngularJS later. We are also using fancy-box plugin that let you use light boxes.
+- It's all about HTML5
+- QuickSand plugin is used [QuickSand plug-in](http://razorjack.net/quicksand/) is used for fluent animated filtering
+- Fancybox plugin is used for popup and moving through images
 
-We have nice gallery and when we click on each category we'll see the images in that category, clicking on each image lead to pop up image with the capability of scrolling among images.
+![image of project](explanation_images/gallery.png)
+
+We have a nice and neat gallery. By clicking on each category, we'll see the images inthat category
+
+![categories](explanation_images/quickSand.png)
+
+And by clicking on each image, that image will pop up with  the capability of scrolling among images.
+
+![pop_image](explnation_image/moving.png)
+
+I am not good at jQuery, and my main focus is currenctly is on AngularJS, but I tried to solved this challenge by the help of online materials e.g. stackoverflow, udemy tutorials, etc
