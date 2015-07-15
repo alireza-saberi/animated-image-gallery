@@ -11,6 +11,6 @@ We have a nice and neat gallery. By clicking on each category, we'll see the ima
 
 And by clicking on each image, that image will pop up with  the capability of scrolling among images.
 
-![pop_image](explnation_image/moving.png)
+![pop_image](explanation_images/moving.png)
 
 I am not good at jQuery, and my main focus is currenctly is on AngularJS, but I tried to solved this challenge by the help of online materials e.g. stackoverflow, udemy tutorials, etc
